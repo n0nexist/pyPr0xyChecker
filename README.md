@@ -1,5 +1,5 @@
 # pyPr0xyChecker
-![alt-text](https://github.com/n0nexist/pyPr0xyChecker/blob/main/photo.png?raw=true)
+![alt-text](https://github.com/n0nexist/pyPr0xyChecker/blob/main/photo.png?raw=true)<br>
 <b>Fast python proxy checker, supports http socks4 and sock5 proxies</b>
 
 # Dependencies
